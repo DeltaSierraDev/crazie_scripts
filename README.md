@@ -2,7 +2,7 @@
 
 How to format your readme.md on GitHub: [GitHub Readme Markdown](https://guides.github.com/features/mastering-markdown/)
 
-### fresh_install.sh
+### Basic & Media Software
 Start [fresh_install.sh](https://github.com/crazieNephilim/crazie_scripts/blob/master/fresh_install.sh)
 script to install software that I use on my systems.
 It is recommended to start immediately after fresh minimal installation.
