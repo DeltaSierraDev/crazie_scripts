@@ -14,6 +14,7 @@ sudo apt-get install rawtherapee -y
 sudo apt-get install vlc -y 
 sudo apt-get install clamav -y 
 sudo snap install gitkraken
+sudo snap install discord --classic
 sudo snap install code
 sudo apt-get update -y
 sudo apt-get upgrade -y
