@@ -34,3 +34,6 @@ Script updates and upgrades system
 ### DevOps (tba)
 
 ### NetOps (tba)
+
+### OS tweaking
+[Plymouth](https://wiki.ubuntu.com/Plymouth#Startup) Splash screen customization (Booting and shuting down screen)
