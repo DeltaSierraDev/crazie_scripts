@@ -24,6 +24,7 @@ Software list:
 - ClamAV
 - GitKraken
 - Visual Studio Code
+- Discord
 
 Script updates and upgrades system
 
