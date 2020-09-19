@@ -4,6 +4,7 @@ sudo apt-get upgrade -y
 sudo apt-get install default-jdk -y
 sudo apt-get install git-all -y
 sudo apt-get install preload -y
+sudo apt-get install grub-customizer -y
 sudo apt install gnome-shell-extension-prefs-y
 sudo apt-get install gnome-tweaks
 sudo apt-get install inkscape -y 
