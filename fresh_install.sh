@@ -3,7 +3,8 @@ sudo apt-get update -y
 sudo apt-get upgrade -y
 sudo apt-get install default-jdk -y
 sudo apt-get install git-all -y
-sudo apt-get install python3 -y
+sudo apt-get install preload -y
+sudo apt install gnome-shell-extension-prefs-y
 sudo apt-get install gnome-tweaks
 sudo apt-get install inkscape -y 
 sudo apt-get install gimp -y 
