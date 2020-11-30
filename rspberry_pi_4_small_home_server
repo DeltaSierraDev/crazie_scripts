@@ -4,6 +4,13 @@
 # Default user: pi 
 #         pass: raspberry
 
+# Configure CLI (Optional)
+sudo dpkg-reconfigure console-setup
+
+# Configure Raspberry Pi
+# Setup Keyboard and Langugae, Networking, SSH, ...
+sudo raspi-config
+
 sudo apt-get update -y
 sudo apt-get upgrade -y
 sudo apt-get install ranger -y
