@@ -1,6 +1,8 @@
 #!/bin/bash
 
 # Raspbian CLI minimal version from Raspberry Pi Imager
+# Default user: pi 
+#         pass: raspberry
 
 sudo apt-get update -y
 sudo apt-get upgrade -y
