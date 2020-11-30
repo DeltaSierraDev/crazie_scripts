@@ -16,5 +16,9 @@ How to format your readme.md on GitHub: [GitHub Readme Markdown](https://guides.
 3. Wait for system auto installation
 4. Configure CLI (Optional)
 ```bash
-sudo dpkg-reconfigure console-setup
+    sudo dpkg-reconfigure console-setup
+```
+5. Configure Your Raspberry Pi Device
+```bash
+    sudo raspi-config
 ```

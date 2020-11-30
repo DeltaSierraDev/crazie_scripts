@@ -2,39 +2,16 @@
 
 How to format your readme.md on GitHub: [GitHub Readme Markdown](https://guides.github.com/features/mastering-markdown/)
 
-### Basic & Media Software
-Start [fresh_install.sh](https://github.com/crazieNephilim/crazie_scripts/blob/master/fresh_install.sh)
-script to install software that I use on my systems.
-It is recommended to start immediately after fresh minimal installation.
-If there is some software installed prior to starting the script, there might be duplicate applications installed.
-Script is intended and tested on Ubuntu 20.04 Focal Fossa.
+### Intro
 
-Software list:
-- Java (OpenJDK)
-- Git
-- Python3
-- Gnome Tweak Tool
-- Inkscape
-- GIMP
-- Blender
-- Audacity
-- LMMS
-- RawTherapee
-- VLC
-- ClamAV
-- GitKraken
-- Visual Studio Code
-- Discord
+This repository is herlper repository for installing and configuring linux based operating systems, for various purposes.
+It is CLI based, and can be used to speed-up initial system configuration and basic software installations. Also it is used as a list of
+delevlopment software and envoirement used for develompment envoirement for real world web applications.
 
-Script updates and upgrades system
+### Ubuntu
 
-### DevEnv MEAN stack (tba)
+[Ubuntu](https://github.com/crazieNephilim/crazie_scripts/blob/master/raspberry_scripts/README_UBUNTU.md)
 
-### DevEnv Oracle Fussion Middleware (tba)
+### Raspbian
 
-### DevOps (tba)
-
-### NetOps (tba)
-
-### OS tweaking
-[Plymouth](https://wiki.ubuntu.com/Plymouth#Startup) Splash screen customization (Booting and shuting down screen)
+[Raspberry Pi](https://github.com/crazieNephilim/crazie_scripts/blob/master/raspberry_scripts/README_RBPI.md)
