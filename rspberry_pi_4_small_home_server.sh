@@ -17,6 +17,7 @@ sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
 
 sudo apt-get update -y
 sudo apt-get upgrade -y
+
 sudo apt-get install ranger -y
 sudo apt-get install default-jdk -y
 sudo apt-get install tomcat9 -y
