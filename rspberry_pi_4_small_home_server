@@ -1,3 +1,15 @@
-# raspbian
-sudo apt-get update
-sudo apt-get upgrade
+#!/bin/bash
+
+# Raspbian CLI minimal version from Raspberry Pi Imager
+
+sudo apt-get update -y
+sudo apt-get upgrade -y
+sudo apt-get install ranger -y
+sudo apt-get install default-jdk -y
+sudo apt-get install tomcat9 -y
+
+
+
+# Docker?
+# Git?
+# Python?
