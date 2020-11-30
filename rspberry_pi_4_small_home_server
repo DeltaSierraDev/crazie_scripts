@@ -11,6 +11,10 @@ sudo dpkg-reconfigure console-setup
 # Setup Keyboard and Langugae, Networking, SSH, ...
 sudo raspi-config
 
+# Alternative network configuration
+# Example in root folder
+sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
+
 sudo apt-get update -y
 sudo apt-get upgrade -y
 sudo apt-get install ranger -y
