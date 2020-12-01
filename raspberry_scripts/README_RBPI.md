@@ -24,6 +24,7 @@ sudo dpkg-reconfigure console-setup
 sudo raspi-config
 ```
 Use `Ctrl+C` to exit configuration.
+
 Use `Ctrl+Alt+Delete` to restart the machine.
 
 7. Alternative network configuration
@@ -31,7 +32,7 @@ Use `Ctrl+Alt+Delete` to restart the machine.
 sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
 ```
 
-> At this point SSH is endabled, and you can either proceed with installation and configuration through conected peripherials or via SSH.
+8. At this point SSH is endabled, and you can either proceed with installation and configuration through conected peripherials or via SSH.
 
 9. Install additional software
 Install software by starting [script](https://github.com/crazieNephilim/crazie_scripts/blob/master/raspberry_scripts/raspberry_resources/rspberry_pi_4_small_home_server.sh)
