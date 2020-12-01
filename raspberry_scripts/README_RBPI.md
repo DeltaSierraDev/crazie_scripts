@@ -1,13 +1,13 @@
 ## My Raspberry Pi fresh install instructions
-Return to [homepage](https://github.com/crazieNephilim/crazie_scripts/blob/master/README.md) instructions.
+Return to [homepage](https://github.com/crazieNephilim/crazie_scripts/blob/master/README.md).
 
 ### Install from scratch instructions
 
 #### Create bootable OS
 
-1. Download [Raspberry Pi Imager](https://www.raspberrypi.org/software/)
-2. Insert Micro SD card and install desired OS
-3. Unplug card from PC and insert into Raspberry Pi
+**1. Download [Raspberry Pi Imager](https://www.raspberrypi.org/software/)**
+**2. Insert Micro SD card and install desired OS**
+**3. Unplug card from PC and insert into Raspberry Pi**
 
 #### Instalation process
 
@@ -23,12 +23,15 @@ sudo dpkg-reconfigure console-setup
 ```bash
 sudo raspi-config
 ```
+Use `Ctrl+C` to exit configuration.
+Use `Ctrl+Alt+Delete` to restart the machine.
+
 7. Alternative network configuration
 ```bash
 sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
 ```
 
-8. At this point SSH is endabled, and you can either proceed with installation and configuration through conected peripherials or via SSH.
+> At this point SSH is endabled, and you can either proceed with installation and configuration through conected peripherials or via SSH.
 
 9. Install additional software
 Install software by starting [script](https://github.com/crazieNephilim/crazie_scripts/blob/master/raspberry_scripts/raspberry_resources/rspberry_pi_4_small_home_server.sh)
