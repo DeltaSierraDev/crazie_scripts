@@ -28,16 +28,18 @@ sudo raspi-config
 sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
 ```
 
-7. Install additional software
+7. At this point SSH is endabled, and you can either proceed with installation and configuration through conected peripherials or via SSH.
+
+8. Install additional software
 Install software by starting [script](https://github.com/crazieNephilim/crazie_scripts/blob/master/raspberry_scripts/raspberry_resources/rspberry_pi_4_small_home_server.sh)
 Installed software:
-- [Git](https://git-scm.com/)
-- [Java default-jdk](https://packages.debian.org/stretch/default-jdk)
-- [Ranger](https://github.com/ranger/ranger)
-- [Apache Tomcat 9 Full](https://tomcat.apache.org/index.html)
-- [PostgreSQL](https://www.postgresql.org/)
+    - [Git](https://git-scm.com/)
+    - [Java default-jdk](https://packages.debian.org/stretch/default-jdk)
+    - [Ranger](https://github.com/ranger/ranger)
+    - [Apache Tomcat 9 Full](https://tomcat.apache.org/index.html)
+    - [PostgreSQL](https://www.postgresql.org/)
 
-8. Configure installed software
+9. Configure installed software
 
 - [Apache Tomcat 9](https://github.com/crazieNephilim/crazie_scripts/tree/master/raspberry_scripts/raspberry_resources/README_TOMCAT9.md)
 - [PostgreSQL](https://github.com/crazieNephilim/crazie_scripts/tree/master/raspberry_scripts/raspberry_resources/README_POSTGRESQL.md)
