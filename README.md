@@ -8,10 +8,7 @@ This repository is herlper repository for installing and configuring linux based
 It is CLI based, and can be used to speed-up initial system configuration and basic software installations. Also it is used as a list of
 delevlopment software and envoirement used for develompment envoirement for real world web applications.
 
-### Ubuntu
+### List of script groups
 
-[Ubuntu](https://github.com/crazieNephilim/crazie_scripts/blob/master/raspberry_scripts/README_UBUNTU.md)
-
-### Raspbian
-
-[Raspberry Pi](https://github.com/crazieNephilim/crazie_scripts/blob/master/raspberry_scripts/README_RBPI.md)
+- [Ubuntu](https://github.com/crazieNephilim/crazie_scripts/blob/master/raspberry_scripts/README_UBUNTU.md)
+- [Raspberry Pi](https://github.com/crazieNephilim/crazie_scripts/blob/master/raspberry_scripts/README_RBPI.md)

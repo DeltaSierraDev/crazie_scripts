@@ -1,33 +1,14 @@
 #!/bin/bash
-
-# Raspbian CLI minimal version from Raspberry Pi Imager
-# Default user: pi 
-#         pass: raspberry
-
-# Configure CLI (Optional)
-# sudo dpkg-reconfigure console-setup
-
-# Configure Raspberry Pi
-# Setup Keyboard and Langugae, Networking, SSH, ...
-# sudo raspi-config
-
-# Alternative network configuration
-# Example in root folder
-# sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
-
-sudo apt-get update
-sudo apt-get upgrade
-
+sudo apt-get update -y
+sudo apt-get upgrade -y
 # Envoirement
-sudo apt-get install git
-sudo apt-get install default-jdk
-
+sudo apt-get install git -y
+sudo apt-get install default-jdk -y
 # Utility
-sudo apt-get install ranger
-
+sudo apt-get install ranger -y
 
 # Apache Tomcat 9
-sudo apt-get install tomcat9 tomcat9-common tomcat9-user tomcat9-docs tomcat9-examples 
+sudo apt-get install tomcat9 tomcat9-common tomcat9-user tomcat9-docs tomcat9-examples -y
 # Add users
 sudo nano /etc/tomcat9/tomcat-users.xml
 # Server configuration
