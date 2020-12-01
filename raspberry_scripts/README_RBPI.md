@@ -5,32 +5,32 @@ How to format your readme.md on GitHub: [GitHub Readme Markdown](https://guides.
 
 #### Create bootable OS
 
-1. Download [Raspberry Pi Imager](https://www.raspberrypi.org/software/)
-2. Insert Micro SD card and install desired OS
-3. Unplug card from PC and insert into Raspberry Pi
+##### 1. Download [Raspberry Pi Imager](https://www.raspberrypi.org/software/)
+##### 2. Insert Micro SD card and install desired OS
+##### 3. Unplug card from PC and insert into Raspberry Pi
 
 #### Instalation process
 
-1. Connect the Display and keyboard
-2. Power on the device (Plug in the power source)
-3. Wait for system auto installation
-4. Log in Raspberry Pi OS default user (username: **pi**, password: **raspberry**)
-4. Configure CLI (Optional)
+##### 1. Connect the Display and keyboard
+##### 2. Power on the device (Plug in the power source)
+##### 3. Wait for system auto installation
+##### 4. Log in Raspberry Pi OS default user (username: **pi**, password: **raspberry**)
+##### 5. Configure CLI (Optional)
 ```bash
 sudo dpkg-reconfigure console-setup
 ```
-5. Configure Your Raspberry Pi Device
+##### 6. Configure Your Raspberry Pi Device
 ```bash
 sudo raspi-config
 ```
-6. Alternative network configuration
+##### 7. Alternative network configuration
 ```bash
 sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
 ```
 
-7. At this point SSH is endabled, and you can either proceed with installation and configuration through conected peripherials or via SSH.
+##### 8. At this point SSH is endabled, and you can either proceed with installation and configuration through conected peripherials or via SSH.
 
-8. Install additional software
+##### 9. Install additional software
 Install software by starting [script](https://github.com/crazieNephilim/crazie_scripts/blob/master/raspberry_scripts/raspberry_resources/rspberry_pi_4_small_home_server.sh)
 Installed software:
     - [Git](https://git-scm.com/)
@@ -39,7 +39,7 @@ Installed software:
     - [Apache Tomcat 9 Full](https://tomcat.apache.org/index.html)
     - [PostgreSQL](https://www.postgresql.org/)
 
-9. Configure installed software
+##### 10. Configure installed software
 
 - [Apache Tomcat 9](https://github.com/crazieNephilim/crazie_scripts/tree/master/raspberry_scripts/raspberry_resources/README_TOMCAT9.md)
 - [PostgreSQL](https://github.com/crazieNephilim/crazie_scripts/tree/master/raspberry_scripts/raspberry_resources/README_POSTGRESQL.md)
