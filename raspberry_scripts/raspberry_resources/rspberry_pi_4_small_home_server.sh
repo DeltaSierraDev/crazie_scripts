@@ -9,16 +9,6 @@ sudo apt-get install ranger -y
 
 # Apache Tomcat 9
 sudo apt-get install tomcat9 tomcat9-common tomcat9-user tomcat9-docs tomcat9-examples -y
-# Add users
-sudo nano /etc/tomcat9/tomcat-users.xml
-# Server configuration
-sudo nano /etc/tomcat9/server.xml
-# Connect frome another PC
-sudo nano /usr/share/tomcat9-admin/host-manager/META-INF/context.xml
-sudo nano /usr/share/tomcat9-admin/manager/META-INF/context.xml
-# webapps loaction
-cd /var/lib/tomcat9/webapps/
-
 
 # PostgreSQL
 sudo apt install postgresql libpq-dev postgresql-client postgresql-client-common -y
