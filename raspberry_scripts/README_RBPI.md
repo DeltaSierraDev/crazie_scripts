@@ -27,3 +27,17 @@ sudo raspi-config
 ```bash
 sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
 ```
+
+7. Install additional software
+Install software by starting [script](https://github.com/crazieNephilim/crazie_scripts/blob/master/raspberry_scripts/raspberry_resources/rspberry_pi_4_small_home_server.sh)
+Installed software:
+- [Git]
+- [Java default-jdk]
+- [Ranger]
+- [Apache Tomcat 9 Full]
+- [PostgreSQL]
+
+8. Configure installed software
+
+1. [Tomcat](https://github.com/crazieNephilim/crazie_scripts/tree/master/raspberry_scripts/raspberry_resources/README_TOMCAT9.md)
+2. [PostgreSQL](https://github.com/crazieNephilim/crazie_scripts/tree/master/raspberry_scripts/raspberry_resources/README_POSTGRESQL.md)
