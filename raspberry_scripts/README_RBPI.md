@@ -47,3 +47,10 @@ Installed software:
 
     - [Apache Tomcat 9](https://github.com/crazieNephilim/crazie_scripts/tree/master/raspberry_scripts/raspberry_resources/README_TOMCAT9.md)
     - [PostgreSQL](https://github.com/crazieNephilim/crazie_scripts/tree/master/raspberry_scripts/raspberry_resources/README_POSTGRESQL.md)
+
+
+11. TO-DO:
+
+    - Pi-hole
+    - OpenVPN
+    - Samba
