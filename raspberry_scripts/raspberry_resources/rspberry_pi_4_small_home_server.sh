@@ -10,6 +10,9 @@ sudo apt-get install ranger -y
 # Apache Tomcat 9
 sudo apt-get install tomcat9 tomcat9-common tomcat9-user tomcat9-docs tomcat9-examples -y
 
+# Samba File Server
+sudo apt-get install samba samba-common-bin -y
+
 # PostgreSQL
 sudo apt install postgresql libpq-dev postgresql-client postgresql-client-common -y
 # When that's complete, switch to the Postgres user to configure the database:
