@@ -1,4 +1,9 @@
 #!/bin/bash
+
+# Debuging broken installs or packages
+# sudo apt --fix-broken install
+# sudo dpkg --configure -a
+
 sudo apt-get update -y
 sudo apt-get upgrade -y
 # Envoirement
