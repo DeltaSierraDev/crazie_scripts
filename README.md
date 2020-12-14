@@ -10,5 +10,5 @@ delevlopment software and envoirement used for develompment envoirement for real
 
 ### List of script groups
 
-- [Ubuntu](https://github.com/crazieNephilim/crazie_scripts/blob/master/raspberry_scripts/README_UBUNTU.md)
+- [Ubuntu](https://github.com/crazieNephilim/crazie_scripts/blob/master/ubuntu_scripts/README_UBUNTU.md)
 - [Raspberry Pi](https://github.com/crazieNephilim/crazie_scripts/blob/master/raspberry_scripts/README_RBPI.md)
