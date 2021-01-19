@@ -30,6 +30,7 @@
  - [Angular](https://angular.io/)
  - [Spring IO](https://spring.io/)
  - [Hibernate](https://hibernate.org/)
- - [PostgreSQL](https://www.postgresql.org/) / [MongoDB](https://www.mongodb.com/)
+ - [PostgreSQL](https://www.postgresql.org/)
+ - [MongoDB](https://www.mongodb.com/)
  - [Wildfly](https://www.wildfly.org/)
  - [NGINX](https://www.nginx.com/)
