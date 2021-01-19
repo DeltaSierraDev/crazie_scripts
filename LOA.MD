@@ -31,5 +31,5 @@
  - [Spring IO](https://spring.io/)
  - [Hibernate](https://hibernate.org/)
  - [PostgreSQL](https://www.postgresql.org/) / [MongoDB](https://www.mongodb.com/)
- - [Wildfly](https://www.wildfly.org/) / [Glassfish](https://javaee.github.io/glassfish/) / [Tomcat](http://tomcat.apache.org/)
- - [Httpd](https://httpd.apache.org/) / [NGINX](https://www.nginx.com/)
+ - [Wildfly](https://www.wildfly.org/)
+ - [NGINX](https://www.nginx.com/)
