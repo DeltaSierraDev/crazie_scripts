@@ -24,3 +24,11 @@
  
  ## Development Envoirement
  - Servers and database [Laragon](https://laragon.org/)
+
+## Framework
+ - [Foundation by ZURB](https://get.foundation/)
+ - [Angular](https://angular.io/)
+ - [Spring IO](https://spring.io/)
+ - [Hibernate](https://hibernate.org/)
+ - [PostgreSQL](https://www.postgresql.org/)
+ - [Wildfly](https://www.wildfly.org/)
