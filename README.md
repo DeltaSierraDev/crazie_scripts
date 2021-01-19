@@ -15,4 +15,4 @@ delevlopment software and envoirement used for develompment envoirement for real
 
 ### List of apps for development
 
-- Web design
+- [Web design](https://github.com/crazieNephilim/crazie_scripts/blob/master/LOA.MD)
