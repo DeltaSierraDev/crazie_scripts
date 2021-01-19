@@ -12,3 +12,7 @@ delevlopment software and envoirement used for develompment envoirement for real
 
 - [Ubuntu](https://github.com/crazieNephilim/crazie_scripts/blob/master/ubuntu_scripts/README_UBUNTU.md)
 - [Raspberry Pi](https://github.com/crazieNephilim/crazie_scripts/blob/master/raspberry_scripts/README_RBPI.md)
+
+### List of apps for development
+
+- Web design
