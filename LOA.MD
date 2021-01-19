@@ -1,4 +1,4 @@
-# Graphic design toolset
+# Full Stack Open-Source Web Development Toolset
  
  ## Image editing
  - Raster [GIMP](https://www.gimp.org/)
