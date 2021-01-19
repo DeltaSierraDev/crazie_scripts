@@ -1,8 +1,4 @@
 # Graphic design toolset
-
-## GIT GUI
- - [Github Desktop](https://desktop.github.com/)
- - [GitKraken](https://www.gitkraken.com/)
  
  ## Image editing
  - Raster [GIMP](https://www.gimp.org/)
@@ -19,6 +15,8 @@
  ## Utility
  - [Colorpicker](https://colorpicker.fr/)
  - [RawTherapee](https://rawtherapee.com/)
+ - [Github Desktop](https://desktop.github.com/)
+ - [GitKraken](https://www.gitkraken.com/)
  
  ## IDE
  - [VS Code](https://code.visualstudio.com/)
