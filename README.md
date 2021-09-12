@@ -16,3 +16,8 @@ delevlopment software and envoirement used for develompment envoirement for real
 ### Developers toolset
 
 - [Web design](https://github.com/crazieNephilim/crazie_scripts/blob/master/LOA.MD)
+
+
+### Develooment envoirement scripts
+
+- [Angular](https://github.com/crazieNephilim/crazie_scripts/blob/master/angular_scripts/README_ANG.md)
