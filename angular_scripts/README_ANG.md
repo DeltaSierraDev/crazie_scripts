@@ -8,9 +8,13 @@
 `ng add @angular/material`
 
 
-## Generate Component
+## Generate
 
+### Component
 `ng g c new-component --module app`
+
+### Service
+`ng g s /share/data`
 
 
 
