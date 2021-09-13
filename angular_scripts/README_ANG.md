@@ -10,7 +10,7 @@
 
 ## Generate Component
 
-'ng g c new-component --module app'
+`ng g c new-component --module app`
 
 
 
