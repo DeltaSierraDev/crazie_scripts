@@ -8,6 +8,11 @@
 `ng add @angular/material`
 
 
+## Generate Component
+
+'ng g c new-component --module app'
+
+
 
 
 
