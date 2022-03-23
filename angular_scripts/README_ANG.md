@@ -1,35 +1,27 @@
-# AngularBootstrapScripts
+# Javascript framework commands
 
 
-## Create Angular project 
+## Prerequisite
 
-`ng new ProjectName --routing --style=scss  --commit`
+[Node.js](https://nodejs.org/en/download/)
+
+`npm install -g @angular/cli`
+
+`npm install -g firebase`
+
+## Angular
+
+### Clean Angular backendless Firebase
+
+`ng new myproject --routing true --style scss`
 
 `ng add @angular/material`
 
+`ng add @angular/fire`
 
-## Generate
+### Custom Angular Full Stack
 
-### Component
-`ng g c new-component --module app`
+`npm install primeng --save`
 
-### Service
-`ng g s /share/data`
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+`npm install primeicons --save`
 
